@@ -1,0 +1,13 @@
+# Empty CSS file for your own CSS
+
+.text-input {
+    border-bottom: solid 1px black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+input[type="text"]:focus{
+
+    outline: none;
+
+}

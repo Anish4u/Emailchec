@@ -1,0 +1,21 @@
+
+.navbar-fixed-left {
+
+    position: fixed;
+}
+
+.navbar-fixed-left .navbar-nav > li {
+    float: none;  /* Cancel default li float: left */
+
+}
+.text-input {
+    border-bottom: solid 1px black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+input[type="text"]:focus{
+
+    outline: none;
+
+}
